@@ -1,0 +1,17 @@
+.jumbotron {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	background-image: url("../image/Bacteria.png");
+	background-size: 100%;
+    text-align: center;   
+}
+
+.jumbotron > h1 {
+    color: lightgreen;
+    text-shadow: 4px 4px 8px black;
+}
+
+.jumbotron > p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    color: darkgreen;
+    text-shadow: 4px 4px 8px black;
+}
